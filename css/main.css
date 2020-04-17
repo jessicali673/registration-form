@@ -17,4 +17,13 @@ html {
   .age {
     padding-left: .5em;
   }
+
+  .email {
+    padding-right: .5em;
+  }
+
+  .subject {
+    padding-left: .5em;
+  }
+
 }
